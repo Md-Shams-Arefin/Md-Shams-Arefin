@@ -1,7 +1,7 @@
 ![MasterHead](https://live.staticflickr.com/65535/51350239267_93b73e631f_h.jpg)
 <h1 align="center">Hi 👋, I'm Shamsul Arefin</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="450" src="https://miro.medium.com/max/1360/0*ygaHmPjQnVmEApdT.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*ygaHmPjQnVmEApdT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arefin-semicolonit&label=Profile%20views&color=0e75b6&style=flat" alt="arefin-semicolonit" /> </p>
 
