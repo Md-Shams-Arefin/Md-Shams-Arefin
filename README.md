@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Inventory Management System**
 
-- 🌱 I’m currently learning **Nest**
+- 🌱 I’m currently learning **Nest Js**
 
 - 👯 I’m looking to collaborate on **Inventory-ERP**
 
