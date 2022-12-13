@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, MEARN**
 
-- 📫 How to reach me **arefin.semicolonit@gmail.com**
+- 📫 How to reach me **arefins56@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arefin-semicolonit&show_icons=true&locale=en&layout=compact" alt="arefin-semicolonit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arefin-semicolonit&show_icons=true&locale=en" alt="arefin-semicolonit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arefin&show_icons=true&locale=en" alt="Arefin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arefin-semicolonit&" alt="arefin-semicolonit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arefin&" alt="Arefin" /></p>
