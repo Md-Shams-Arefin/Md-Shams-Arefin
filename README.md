@@ -30,8 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arefin-semicolonit&show_icons=true&locale=en&layout=compact" alt="arefin-semicolonit" /><img width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=Arefin&show_icons=true&locale=en" alt="Arefin" /></p>
 
-<p>a</p>
-<p>b</p>
+
 <p>&nbsp;</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arefin&" alt="Arefin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arefin&" alt="Arefin" /></p>
