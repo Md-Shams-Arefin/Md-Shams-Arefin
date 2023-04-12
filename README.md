@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arefins56" target="blank"><img src="https://img.shields.io/twitter/follow/arefins56?logo=twitter&style=for-the-badge" alt="arefins56" /></a> </p>
 
-- 🔭 I’m currently working on **Inventory Management System**
+- 🔭 I’m currently working on **School Management System**
 
 - 🌱 I’m currently learning **Nest Js**
 
